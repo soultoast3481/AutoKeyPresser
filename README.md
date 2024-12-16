@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 Start the application with Python:
 
-python autokeypresser.py  
+python key.py  
 
 Boom Chika Laka:
 You now have a fancy-schmancy auto key presser up and running!
